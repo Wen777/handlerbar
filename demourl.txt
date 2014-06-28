@@ -1,0 +1,9 @@
+https://software.intel.com/zh-cn/articles/html5handlebars
+
+http://blog.csdn.net/zolalad/article/details/18514685
+
+http://heikezhi.com/yuanyi/handlebars-js%E5%85%A5%E9%97%A8%E4%BB%8B%E7%BB%8D
+
+http://tryhandlebarsjs.com/
+
+http://www.ghostchina.com/introducing-the-handlebars-js-templating-engine/
